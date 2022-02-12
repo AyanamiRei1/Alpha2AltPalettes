@@ -1,6 +1,6 @@
 ### Fightcade 2: Alpha 2
 Download the latest release:
- * [Latest Alpha 2 Patch](roms/Fightcade/4-12-2020-A2.7z?raw=true)
+ * [Latest Alpha 2 Patch](roms/Fightcade/12-12-2021-A2.7z?raw=true)
 
 * The Alpha2.7z folder contains 2 files, named sz2u.07, and sz2u.08
 * Open your fightcade 2 roms folder. Inside it is a subfolder called FBNeo Roms. 
